@@ -5,3 +5,5 @@ Convolutional Neural Network (CNN) is a branch of supervised machine learning, u
 
 
 In this project CNN classifies image inputs as signal+noise or noise. Input to architecture is row major image and output is the label (1 for signal+noise, 2 for noise). Architecture of CNN contains many layers called hidden layers, between input and the output. Each hidden layer is either convolution layer, pooling layer or activation function (discussed in detail later)
+
+Please use MatConvNet library, for running this file. 
